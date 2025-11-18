@@ -4,14 +4,10 @@ This repository contains the implementation and analysis of three different text
 
 ---
 
-# 📄 Research Paper
+## 📄 Research Paper
 
-You can open the complete paper here:  
-👉 **[Download / View Full Paper (PDF)]([results/PERBANDINGAN METODE FASTTEXT, TRANSFORMER, DAN LSTM UNTUK KLASIFIKASI TEKS MENGGUNAKAN WORD EMBEDDING GLOVE PADA DATASET AGNEWS.pdf](https://github.com/wahyu-02/nlp-text-classification-agnews/blob/dc445eab1f70737ed64eb5761d943b5a7ccf893f/results/PERBANDINGAN%20METODE%20FASTTEXT%2C%20TRANSFORMER%2C%20DAN%20LSTM%20UNTUK%20KLASIFIKASI%20TEKS%20MENGGUNAKAN%20WORD%20EMBEDDING%20GLOVE%20PADA%20DATASET%20AGNEWS.pdf))**
-
-Or view it directly in GitHub by clicking the file inside this repository:
-
-`PERBANDINGAN METODE FASTTEXT, TRANSFORMER, DAN LSTM UNTUK KLASIFIKASI TEKS MENGGUNAKAN WORD EMBEDDING GLOVE PADA DATASET AGNEWS.pdf`
+You can read the full paper here:  
+[Performance Comparison – FastText, Transformer, and LSTM (PDF)](results/PERBANDINGAN%20METODE%20FASTTEXT,%20TRANSFORMER,%20DAN%20LSTM%20UNTUK%20KLASIFIKASI%20TEKS%20MENGGUNAKAN%20WORD%20EMBEDDING%20GLOVE%20PADA%20DATASET%20AGNEWS.pdf)
 
 ---
 
